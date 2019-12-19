@@ -1,4 +1,4 @@
 # spark2.4-com.test.test
 spark2.4.0 API Learning
 
-����windows�������������Ҫ��Ⱥ���ԣ�ֻ��Ҫ�ṩjdk1.8��scala2.11���ϰ汾�İ�װ�ͻ����������þͿ���
+window环境下，如果不运行集群环境，只需要安装jdk和scala即可，spark core可以从pom文件下载。
